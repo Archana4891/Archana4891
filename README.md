@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Archana! </h1>
+
+<h2>👨‍💻 Cybers Security Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+(https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>📺 I am currently working on </h2>
+- [ Python GUI]
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[linkedin]: https:www.linkedin.com/in/archana-archana-7698701ba/
 
 <!--
-**Archana4891/Archana4891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Archana4891/Archana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
