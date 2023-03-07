@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Cybers Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-(https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Damn Vulnerable Web App and Web Application penetration Testing</b>
+  - [test skills in controlled environment
+  - Cross-site Scripting Attack
+  - Command injection Attack]
 
 <h2>📺 I am currently working on </h2>
 - [ Python GUI]
