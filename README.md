@@ -12,8 +12,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
+<b>
 [linkedin]: https:www.linkedin.com/in/archana-archana-7698701ba/
+  </b>
 
 <!--
 **Archana4891/Archana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
